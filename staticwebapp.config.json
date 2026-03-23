@@ -1,0 +1,7 @@
+{
+  "routes":[{
+    "route": "/*",
+    "redirect": "https://8.8.8.8",
+    "statusCode": 301
+  }]
+}
